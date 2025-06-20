@@ -1,1 +1,4 @@
+# Lab 2: Basic Data Cleaning and Visualization of the Titanic Dataset
+
+The lab activity titled *"Basic Data Cleaning and Visualization of the Titanic Dataset"* is part of the COSC 110 – *Introduction to Computing* course and is meant to help students get started with basic data cleaning and simple visualizations using Python. In this lab, students worked with the Titanic dataset from Kaggle and used tools like Pandas to load and clean the data. The process included checking and handling missing values, removing duplicate rows, and fixing data types so that the dataset was ready for analysis. After cleaning, students made simple charts like bar plots and histograms to look at patterns in survival, age, and gender. All of this was done in Google Colab or Jupyter Notebook. The main goal of this lab was to give students real experience in preparing messy data and using visuals to start understanding what the data is showing.
 
